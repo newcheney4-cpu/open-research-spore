@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Open Research Spore"
+version: "2.2.0"
+date-released: "2026-09-27"
+type: software
+authors:
+  - name: "New Cheney"
+license: "CC-BY-NC-SA-4.0"
+repository-code: "https://github.com/newcheney4-cpu/open-research-spore"
+url: "https://github.com/newcheney4-cpu/open-research-spore"
+abstract: >-
+  An installable, editable research workflow that keeps evidence honest, falsifies
+  actively, adjudicates corrections, and exports descendant mentor/student
+  packages. 可安装、可编辑、可繁殖的研究工作范式。
+keywords:
+  - "research workflow"
+  - "AI agents"
+  - "reproducibility"
+  - "provenance"
+  - "methodology"
